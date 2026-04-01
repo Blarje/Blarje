@@ -43,7 +43,7 @@ With over **8+ years of full-stack development** and **7+ years in FiveM/Game de
 
 ### 🚀 Featured Projects & Experience
 
-*   **🎮 FiveM Script Development (BS_ Scripts):** 7+ years developing custom Lua resources across 8 different servers. Built custom QBCore/Qbox scripts, including an advanced **VIP Web-to-FiveM system** where players purchase items online and claim them instantly in-game.
+*   **🎮 FiveM Script Development (bl_ Scripts):** 7+ years developing custom Lua resources across 8 different servers. Built custom QBCore/Qbox scripts, including an advanced **VIP Web-to-FiveM system** where players purchase items online and claim them instantly in-game.
 *   **🌐 ThatesNetwork:** Designed and built a complete, custom full-stack social platform featuring real-time updates, user profiles, and seasonal themed events (Ramadan, Christmas, Eid).
 *   **👾 Indie Game Developer:** Developed and published cross-platform (Mobile + Desktop) games, including *Counter Aliens Demo* (High-quality FPS) and *Taroudant Cafe Simulator*.
 *   **📈 E-Commerce & Social Media:** Managed a clothing brand's Instagram account, generating over **24 Million+ total views** (Top reel hit 4M+ views). Integrated full print-on-demand fulfillment.
