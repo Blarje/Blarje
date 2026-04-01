@@ -6,7 +6,6 @@
 
 [![Website](https://img.shields.io/badge/Official_Website-00c8ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://blarje.xo.je/)
 [![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Blarje01)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#) 
 [![Kick](https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=black)](https://kick.com/blarje)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@blarje01)
 
