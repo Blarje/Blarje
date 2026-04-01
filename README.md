@@ -63,9 +63,9 @@ With over **8+ years of full-stack development** and **7+ years in FiveM/Game de
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blarje&show_icons=true&theme=neon&bg_color=08090c&title_color=00c8ff&text_color=ffffff&icon_color=ffd700&border_color=00c8ff&v=1" alt="Blarje's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Blarje&show_icons=true&theme=neon&bg_color=08090c&title_color=00c8ff&text_color=ffffff&icon_color=ffd700&border_color=00c8ff&v=2" alt="Blarje's GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blarje&layout=compact&theme=neon&bg_color=08090c&title_color=00c8ff&text_color=ffffff&icon_color=ffd700&border_color=00c8ff&v=1" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blarje&layout=compact&theme=neon&bg_color=08090c&title_color=00c8ff&text_color=ffffff&icon_color=ffd700&border_color=00c8ff&v=2" alt="Top Languages" />
 </div>
 
 <br>
